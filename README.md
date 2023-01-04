@@ -2,8 +2,7 @@
 make a website say anything.
 
 
-
----------HOW TO USE---------
+HOW TO USE:
 copy JS code
 bookmark tab
 Left click, press "Edit", and in the URL section, add javascript:, and paste the code.
